@@ -10,7 +10,7 @@ Welcome to the MITH 610 GitHub repository for "Reimagining the Archive".
 
 ## Viewer
 
-You can [access high resolution images here](umd-mith.github.io/sga-lab/TimeIsFlying). Later on you will also be able to check the rendering of your transcription there.
+You can [access high resolution images here](http://umd-mith.github.io/sga-lab/TimeIsFlying/). Later on you will also be able to check the rendering of your transcription there.
 
 ## Getting started
 
