@@ -2,6 +2,12 @@
 
 Welcome to the MITH 610 GitHub repository for "Reimagining the Archive".
 
+## Groups
+1. Brittini, Gareth, Liam, Jessica, Georgia
+2. Nancy, Bobby, Vincent, Victoria
+3. Brooke, Katie, Jasmine, Nora, Jeffrey
+4. Garth, Hazim, Allison, Kimberly
+
 ## Getting started
 
 A group "leader" should **fork** this repository to her or his GitHub account. Click "fork" on the top-right corner of the screen.
